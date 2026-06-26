@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
 
  body {
@@ -113,20 +112,7 @@
     font-weight: bold;
     cursor: pointer;
 }
-.search__filters {
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
 
-.search__filters select {
-    padding: 15px;
-    border-radius: 20px;
-    border: 1px solid #ccc;
-    outline: none;
-    cursor: pointer;
-}
 /* BOOK */
 
 .book {
